@@ -17,12 +17,24 @@ font-size: 20px;
 {
 	width 960px;
 	margin:20px;
+	
+	
+}
+.rectangle2
+{
+	width:1000px;
+	margin:20px;
+	color:red;
+	text-align:center;
+	background-color:black;	
+	font-size:20px;
 }
 
 .square
 {
 witdh: 50%;
 float:left;	
+
 }
 
 #logo
@@ -65,7 +77,38 @@ float:left;
 	float:left;
 }
 
-
+.tile4
+{
+	background-color:#93c748;
+	margin:10px;
+	width:480px;
+	height:142px;
+	float:left;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	float: left;
+	
+}
+.tile5
+{
+	background-color:red;
+	color:white;
+	
+	width:220px;
+	height:260px;
+	float: left;
+	
+}
+#stopka
+{
+	background-color:black;
+	color:red;
+	font-size:50px;
+	text-align:center;
+	clear:both;
+	
+}
 
 
 
