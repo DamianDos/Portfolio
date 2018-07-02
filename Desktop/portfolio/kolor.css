@@ -16,14 +16,13 @@ font-size: 20px;
 .rectangle
 {
 	width 960px;
-	margin:20px;
 	
 	
 }
 .rectangle2
 {
 	width:1000px;
-	margin:20px;
+	margin-top:20px;
 	color:red;
 	text-align:center;
 	background-color:black;	
@@ -43,12 +42,16 @@ float:left;
 	float:left;
 	font-size:70px;
 	width:600px;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 #zegar
 {
 	font-family: 'Josefin Sans', sans-serif;
 	float:left;
-	font-size:70px;
+	font-size:60px;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 
 .tile1
@@ -56,50 +59,52 @@ float:left;
 	background-color:#3095d3;
 	margin:10px;
 	width:230px;
-	height:142px;
+	height:140px;
 	float:left;
+}
+.tile1:hover
+{
+	background-color:#2084c2;
 }
 .tile2
 {
 	background-color:#666666;
 	margin:10px;
 	width:230px;
-	height:142px;
+	height:140px;
 	float:left;
 }
-
+.tile2:hover
+{
+	background-color:#555555;
+}
 .tile3
 {
 	background-color:#93c748;
 	margin:10px;
 	width:230px;
-	height:142px;
+	height:140px;
 	float:left;
 }
-
+.tile3:hover
+{
+	background-color:#82b637;
+}
 .tile4
 {
 	background-color:#93c748;
 	margin:10px;
 	width:480px;
-	height:142px;
-	float:left;
+	height:140px;
 	text-align:center;
 	margin-top:10px;
 	color:black;
-	float: left;
-	
 }
-.tile5
+.tile4:hover
 {
-	background-color:red;
-	color:white;
-	
-	width:220px;
-	height:260px;
-	float: left;
-	
+	background-color:#82b637;
 }
+
 #stopka
 {
 	background-color:black;
@@ -108,12 +113,88 @@ float:left;
 	text-align:center;
 	clear:both;
 	
+	
+}
+.tile6
+{
+	background-color:#93c748;
+	margin:10px;
+	width:460px;
+	height:280px;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	padding-top:20px;
+	
+	
 }
 
 
-
-
-
+.yt
+{
+	background-color:#d94348;
+	margin:10px;
+	width:100px;
+	height:142px;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	float:left;
+}
+.yt:hover
+{
+	background-color:#c83237;
+	margin-top:20px;
+}
+.fb:hover
+{
+	background-color:#3557a2;
+	margin-top:20px;
+}
+.gplus:hover
+{
+	background-color:#a72126;
+	margin-top:20px;
+}
+.tw:hover
+{
+	background-color:#8965d2;
+	margin-top:20px;
+}
+.fb
+{
+	background-color:#4668b3;
+	margin:10px;
+	width:100px;
+	height:140px;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	float:left;
+	
+}
+.gplus
+{
+	background-color:#c83237;
+	margin:10px;
+	width:100px;
+	height:140px;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	float:left;	
+}
+.tw
+{
+	background-color:silver;
+	margin:10px;
+	width:100px;
+	height:140px;
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	float:left;	
+}
 
 
 
