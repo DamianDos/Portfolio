@@ -68,11 +68,12 @@ float:left;
 }
 .tile2
 {
-	background-color:#666666;
+	background-color:#170D1F;
 	margin:10px;
 	width:230px;
 	height:140px;
 	float:left;
+
 }
 .tile2:hover
 {
@@ -92,7 +93,7 @@ float:left;
 }
 .tile4
 {
-	background-color:#93c748;
+	background-color:#15A167;
 	margin:10px;
 	width:480px;
 	height:140px;
